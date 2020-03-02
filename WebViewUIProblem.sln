@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29709.97
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebViewUIProblem", "WebViewUIProblem\WebViewUIProblem.csproj", "{98424644-F490-4F2E-854B-5033997FCD3D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{98424644-F490-4F2E-854B-5033997FCD3D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{98424644-F490-4F2E-854B-5033997FCD3D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{98424644-F490-4F2E-854B-5033997FCD3D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{98424644-F490-4F2E-854B-5033997FCD3D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D9EBADD3-385E-4AB3-BECB-32E6828C4CFE}
+	EndGlobalSection
+EndGlobal
